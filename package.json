@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "font-roboto": "^0.0.2",
+    "node-sass": "^4.7.2",
+    "parcel-bundler": "^1.6.1"
+  },
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "name": "crowdnewsroom-teaser",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
